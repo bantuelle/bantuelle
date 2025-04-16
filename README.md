@@ -3,7 +3,7 @@
   <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=808080&center=true&vCenter=true&width=640&lines=👋+Hi+There+%21+I%E2%80%99m+Nobantu+%3C%2FNdlovu%3E" />
 </h1>
 
-![Dev_Work](./images/Coder.png)
+![Dev_Work](./images/Web_Dev.png)
 
 ---
 
