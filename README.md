@@ -9,7 +9,7 @@
 
 <h1 align=center>Personal Profile</h1>
 
-Driven by a passion for creating impactful digital solutions, I’m a full-stack software developer with a strong foundation in C#, .NET, SQL, and Azure. While I enjoy backend development and systems design, I've recently fallen in love with frontend programming—especially React—and I’m focused on growing my skills to build beautiful, responsive, and user-friendly interfaces.
+Driven by a passion for creating impactful digital solutions, I’m a full-stack software developer with a strong foundation in C#, .NET, SQL, and Azure. While I enjoy backend development and systems design, I've recently fallen in love with frontend programming, especially React, and I’m focused on growing my skills to build beautiful, responsive, and user-friendly interfaces.
 
 I bring a balanced understanding of both the backend and frontend, and I’m excited to deepen my frontend expertise with React, JavaScript, and TypeScript. I’m constantly learning, experimenting with new tools, and staying up to date with modern web development trends.
 
