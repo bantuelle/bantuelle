@@ -13,7 +13,7 @@ Driven by a passion for creating impactful digital solutions, I’m a full-stack
 
 I bring a balanced understanding of both the backend and frontend, and I’m excited to deepen my frontend expertise with React, JavaScript, and TypeScript. I’m constantly learning, experimenting with new tools, and staying up to date with modern web development trends.
 
-I thrive in collaborative environments that value clean code, innovation, and continuous improvement. Outside of tech, my interests in chess and art fuel my creativity and strategic thinking—qualities I aim to bring into every project.
+I thrive in collaborative environments that value clean code, innovation, and continuous improvement. Outside of tech, my interests in chess and art fuel my creativity and strategic thinking-qualities I aim to bring into every project.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It%20always%20seems%20impossible%20until%20it's%20done.&author=Nelson%20Mandela" />
